@@ -16,4 +16,4 @@
   <li>Para recomeçar o jogo basta recarregar a página.</li>
 </ul>
 
-<img src="">
+<img src="https://github.com/AndreKomori/flappy_bird/blob/master/imgs/flappy_bird.png">
