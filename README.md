@@ -3,7 +3,7 @@
 <h1>Sobre o projeto</h1>
 <p>Implementação do jogo Flappy Bird.</p>
 
-<h1>Tecnologia utilizadas no projeto</h1>
+<h1>Tecnologias utilizadas no projeto</h1>
 <ul>
   <li>HTML</li>
   <li>CSS</li>
